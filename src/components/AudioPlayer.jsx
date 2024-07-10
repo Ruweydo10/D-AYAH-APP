@@ -1,4 +1,5 @@
 import React, { useState, useEffect, useRef } from 'react';
+//surah al ikhlas audio
 import audio1 from '../assets/audios/al-naas.mp3';
 import audio2 from '../assets/audios/al-falaq.mp3';
 import audio3 from '../assets/audios/al-ikhlas.mp3';
