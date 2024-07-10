@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  font-family: sans-serif;
+}
+
+.fixed {
+  transition: transform 0.5s ease-in-out;
+}
+
+.transform {
+  transition: transform 0.5s ease-in-out;
+}
+
+.translate-x-4 {
+  transform: translateX(1rem);
+}
+
+.bg-cover {
+  background-size: cover;
+}
+
+.bg-center {
+  background-position: center;
+}

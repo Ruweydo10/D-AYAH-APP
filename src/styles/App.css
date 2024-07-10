@@ -1,0 +1,27 @@
+.app.day {
+  background: url('/src/assets/images/day-bg.png') no-repeat center center fixed;
+  background-size: cover;
+}
+
+.app.night {
+  background: url('/src/assets/images/night-bg.png') no-repeat center center fixed;
+  background-size: cover;
+}
+
+.ayah-display {
+  padding: 20px;
+  text-align: center;
+}
+
+.ayah-display.day {
+  color: black;
+}
+
+.ayah-display.night {
+  color: white;
+}
+
+.error {
+  color: red;
+  text-align: center;
+}
